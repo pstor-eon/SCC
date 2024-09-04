@@ -1,1 +1,1 @@
-# SCC
+# SafeCar_CTF
